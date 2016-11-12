@@ -1,0 +1,60 @@
+Domain Name: DIRECTIMPACTS.ORG
+Domain ID: D174938737-LROR
+WHOIS Server:
+Referral URL: http://www.godaddy.com
+Updated Date: 2016-01-03T16:35:27Z
+Creation Date: 2015-01-02T18:23:56Z
+Registry Expiry Date: 2018-01-02T18:23:56Z
+Sponsoring Registrar: GoDaddy.com, LLC
+Sponsoring Registrar IANA ID: 146
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registrant ID: CR184349741
+Registrant Name: Louis Camara
+Registrant Organization:
+Registrant Street: 2200 Predella Drive
+Registrant City: Silver Spring
+Registrant State/Province: Maryland
+Registrant Postal Code: 20902
+Registrant Country: US
+Registrant Phone: +1.2405862877
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: louisalsenyc@gmail.com
+Admin ID: CR184349743
+Admin Name: Louis Camara
+Admin Organization:
+Admin Street: 2200 Predella Drive
+Admin City: Silver Spring
+Admin State/Province: Maryland
+Admin Postal Code: 20902
+Admin Country: US
+Admin Phone: +1.2405862877
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: louisalsenyc@gmail.com
+Tech ID: CR184349742
+Tech Name: Louis Camara
+Tech Organization:
+Tech Street: 2200 Predella Drive
+Tech City: Silver Spring
+Tech State/Province: Maryland
+Tech Postal Code: 20902
+Tech Country: US
+Tech Phone: +1.2405862877
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: louisalsenyc@gmail.com
+Name Server: NS8370.HOSTGATOR.COM
+Name Server: NS8369.HOSTGATOR.COM
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2016-11-12T04:50:37Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.

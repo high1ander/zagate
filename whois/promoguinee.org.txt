@@ -1,0 +1,60 @@
+Domain Name: PROMOGUINEE.ORG
+Domain ID: D152011393-LROR
+WHOIS Server:
+Referral URL: http://www.godaddy.com
+Updated Date: 2013-02-12T19:41:18Z
+Creation Date: 2008-03-14T14:40:33Z
+Registry Expiry Date: 2022-03-14T14:40:33Z
+Sponsoring Registrar: GoDaddy.com, LLC
+Sponsoring Registrar IANA ID: 146
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registrant ID: CR35276804
+Registrant Name: Saikou Thiam
+Registrant Organization:
+Registrant Street: 1207 Baker Avenue
+Registrant City: Gwynn Oak
+Registrant State/Province: Maryland
+Registrant Postal Code: 21207
+Registrant Country: US
+Registrant Phone: +1.4104559460
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: sekoumarth@yahoo.com
+Admin ID: CR35276806
+Admin Name: Saikou Thiam
+Admin Organization:
+Admin Street: 1207 Baker Avenue
+Admin City: Gwynn Oak
+Admin State/Province: Maryland
+Admin Postal Code: 21207
+Admin Country: US
+Admin Phone: +1.4104559460
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: sekoumarth@yahoo.com
+Tech ID: CR35276805
+Tech Name: Saikou Thiam
+Tech Organization:
+Tech Street: 1207 Baker Avenue
+Tech City: Gwynn Oak
+Tech State/Province: Maryland
+Tech Postal Code: 21207
+Tech Country: US
+Tech Phone: +1.4104559460
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: sekoumarth@yahoo.com
+Name Server: NS53.DOMAINCONTROL.COM
+Name Server: NS54.DOMAINCONTROL.COM
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2016-11-12T04:45:15Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.

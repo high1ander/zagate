@@ -1,0 +1,58 @@
+Domain Name: GAED-GN.ORG
+Domain ID: D156353928-LROR
+WHOIS Server:
+Referral URL: http://www.tucows.com
+Updated Date: 2016-06-23T00:50:26Z
+Creation Date: 2009-06-10T19:50:40Z
+Registry Expiry Date: 2021-06-10T19:50:40Z
+Sponsoring Registrar: Tucows Inc.
+Sponsoring Registrar IANA ID: 69
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registrant ID: tuAQK6KcdeVa4Zb3
+Registrant Name: Contact Privacy Inc. Customer 0144033843
+Registrant Organization: Contact Privacy Inc. Customer 0144033843
+Registrant Street: 96 Mowat Ave
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M6K 3M1
+Registrant Country: CA
+Registrant Phone: +1.4165385457
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: gaed-gn.org@contactprivacy.com
+Admin ID: tuAQK6KcdeVa4Zb3
+Admin Name: Contact Privacy Inc. Customer 0144033843
+Admin Organization: Contact Privacy Inc. Customer 0144033843
+Admin Street: 96 Mowat Ave
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M6K 3M1
+Admin Country: CA
+Admin Phone: +1.4165385457
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: gaed-gn.org@contactprivacy.com
+Tech ID: tuAQK6KcdeVa4Zb3
+Tech Name: Contact Privacy Inc. Customer 0144033843
+Tech Organization: Contact Privacy Inc. Customer 0144033843
+Tech Street: 96 Mowat Ave
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M6K 3M1
+Tech Country: CA
+Tech Phone: +1.4165385457
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: gaed-gn.org@contactprivacy.com
+Name Server: YNS1.YAHOO.COM
+Name Server: YNS2.YAHOO.COM
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2016-11-12T04:49:42Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
