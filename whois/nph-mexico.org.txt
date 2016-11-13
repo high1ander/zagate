@@ -1,0 +1,60 @@
+Domain Name: NPH-MEXICO.ORG
+Domain ID: D161485435-LROR
+WHOIS Server:
+Referral URL: http://www.godaddy.com
+Updated Date: 2016-02-13T14:03:51Z
+Creation Date: 2011-02-12T18:29:07Z
+Registry Expiry Date: 2019-02-12T18:29:07Z
+Sponsoring Registrar: GoDaddy.com, LLC
+Sponsoring Registrar IANA ID: 146
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registrant ID: CR75152242
+Registrant Name: Aya Akylkhan
+Registrant Organization: NUESTROS PEQUENOS HERMANOS INTERNATIONAL
+Registrant Street: 8507 Ashgrove Plantation Circle
+Registrant City: Vienna
+Registrant State/Province: Virginia
+Registrant Postal Code: 22182
+Registrant Country: US
+Registrant Phone: +1.7037900593
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: domreg@nph.org
+Admin ID: CR75152244
+Admin Name: Aya Akylkhan
+Admin Organization: NUESTROS PEQUENOS HERMANOS INTERNATIONAL
+Admin Street: 8507 Ashgrove Plantation Circle
+Admin City: Vienna
+Admin State/Province: Virginia
+Admin Postal Code: 22182
+Admin Country: US
+Admin Phone: +1.7037900593
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: domreg@nph.org
+Tech ID: CR75152243
+Tech Name: Mark Ouwehand
+Tech Organization: NUESTROS PEQUENOS HERMANOS INTERNATIONAL
+Tech Street: 8507 Ashgrove Plantation Circle
+Tech City: Vienna
+Tech State/Province: Virginia
+Tech Postal Code: 22182
+Tech Country: US
+Tech Phone: +1.7037900593
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: domreg@nph.org
+Name Server: PDNS03.DOMAINCONTROL.COM
+Name Server: PDNS04.DOMAINCONTROL.COM
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2016-11-13T08:15:53Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
